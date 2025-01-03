@@ -19,3 +19,4 @@ metar = "0.7.7"
 # Dice roller
 rand = "0.8.4"
 paste = "1.0.5"
+regex = "1.11.1"
